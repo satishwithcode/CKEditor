@@ -1,0 +1,2 @@
+# CKEditor
+CKEditor full integration
